@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuddenDelight07
 - 👀 I’m interested in coding     
-- 🌱 I’m currently learning web scrapping 
-- 💞️ I’m looking to collaborate on web scrapping 
+- 🌱 I’m currently learning java 
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me 1hk19cs001@hkbk.edu.in 
 
 <!---
